@@ -1,0 +1,38 @@
+Installation notes:
+-------------------
+1. Disconnect internet during installation, and/or make sure to BLOCK internet 
+   access for the program (block unwanted connections by using e.g. a firewall).
+
+1. 인터넷 연결을 끊고 설치, 방화벽이 작동한다면 잠시 끌 수 있도록 한다.
+
+2. Install SONY Vegas Pro 11.0 ... obviously.
+
+2. 소니베가스 프로 11을 확실히 설치한다.
+
+3. When finished don't run SONY Vegas Pro 11.0. 
+
+3. 크랙 패치 등을 포함한 작업이 끝날 때까지 절대 베가스 프로11을 실행하지 않는다.
+
+4. Run the patch and click on the Patch button.
+   * Vista and Windows 7 users may need to run the patch as administrator: 
+     right-click on the patch and choose "Run as administrator".   
+   * On windows 7 32-bit it may be required to turn off UAC when using the patch.
+
+4. 패치 프로그램을 실행하고 패치 버튼을 클릭한다. "윈도우7 이상일 경우 오른쪽 마우스 버튼을 눌러 관리자권한으로 실행"
+
+>> If the message 'Can not find file. Search the file?' appears: 
+   click on the 'Yes' button, browse to vegas110.exe, and select 
+   vegas110.exe to patch it. Default install directory is:
+   C:\Program Files\Sony\Vegas Pro 11.0\
+
+4.만약 'Can not find file. Search the file?이라는 메시지가 나왔을때 Yes 를 클릭하고
+  C:\Program Files\Sony\Vegas Pro11.0\vegas110.exe 라는 파일을 디렉토리에서 불러오기한 후 패치를 한다.
+
+
+5. Wait til at the patch screen its right side the message appears 'PATCHING DONE'.
+
+5. 잠시 기다리면 화면에 PATCHING DONE 이라는 메시지가 뜨면 패치가 성공한 것.
+
+>> Done! >>
+
+끝
